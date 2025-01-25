@@ -1,0 +1,13 @@
+Test Case ID,Test Case Description,Preconditions,Steps,Expected Result,Actual Result,Status
+UI001,Verify the homepage UI elements are displayed correctly.,None,"1. Open the homepage URL
+2. Check for header, footer, and main content.",All UI elements should be visible and aligned properly.,,
+UI002,Verify responsiveness of the homepage.,None,"1. Resize the browser window to various screen sizes.
+2. Check the layout and visibility of elements.",Homepage should adapt to different screen sizes without breaking the layout.,,
+CF001,Verify items can be added to the cart.,User should be on a product page.,"1. Select a product.
+2. Click 'Add to Cart'.","The item should appear in the cart with correct details (name, price, quantity).",,
+CF002,Verify items can be removed from the cart.,Cart should contain at least one item.,"1. Open the cart.
+2. Click 'Remove' for a specific item.",The selected item should be removed from the cart.,,
+DR001,Verify dynamic routing for product pages.,At least one product exists in the database.,"1. Navigate to a product page using a valid product ID.
+2. Check the URL structure and page content.","The URL should reflect the product ID, and the correct product details should load.",,
+DR002,Verify handling of invalid dynamic routes.,None,"1. Navigate to a product page using an invalid product ID.
+2. Observe the behavior.",An error page or 'Product not found' message should be displayed.,,
