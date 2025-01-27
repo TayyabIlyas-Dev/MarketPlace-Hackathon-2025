@@ -54,7 +54,7 @@ Seamlessly migrate and populate your Sanity CMS:
 
 ## Live Project 🌐
 
-Access the live demo here: [Premii Woods - Live](https://readywood.vercel.app/)
+Access the live demo here: [Premii Woods - Live](https://hail-shop.vercel.app/)
 
 ---
 
