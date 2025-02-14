@@ -60,6 +60,7 @@ This project covers all key aspects of live deployment, security, disaster recov
 
 The project has been successfully completed, ensuring a fully functional, secure, and optimized dashboard. 🔐 Authentication and role-based access control enhance security while streamlining operations. The system is well-prepared for post-launch growth, maintenance, and business scaling. 🚀
 
+#### **Developed by Tayyab Ilyas 😎 ( Student Leader )**
 
 
 
